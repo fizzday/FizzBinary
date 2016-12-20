@@ -7,4 +7,5 @@ use Fizzday\FizzBinary\FizzBinary;
 
 $id = 19;
 $res = FizzBinary::getLayers($id);
-print_r($res);
+print_r($res); // 5
+
