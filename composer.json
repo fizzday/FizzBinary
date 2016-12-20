@@ -9,9 +9,7 @@
         }
     ],
     "require": { },
-    "require-dev": {
-        "fizzday/fizzhelper": "dev-master"
-    },
+    "require-dev": { },
     "autoload": {
         "psr-4": {
             "Fizzday\\FizzBinary\\": "src/"
